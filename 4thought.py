@@ -8,7 +8,6 @@ def op(n):
     return '//'
 
 if __name__ == "__main__":
-
     ans = set()
     operation = {}
     for a in range(0,4):
